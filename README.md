@@ -32,5 +32,5 @@ Alternative Flows:
 - Form Pencarian
 - Form Peminjaman
 
-<img align="center" width="1000" src="Peminjaman Buku Object Oriented_1.png" />
-<img align="center" width="1000" src="Peminjaman Buku Object Oriented_2.png" />
+<img align="center" width="800" src="Peminjaman Buku Object Oriented_1.png" />
+<img align="center" width="800" src="Peminjaman Buku Object Oriented_2.png" />
