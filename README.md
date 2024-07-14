@@ -1,6 +1,6 @@
 # Sistem Peminjaman Buku Perpustakaan
-Proyek ini adalah implementasi terstruktur berdasarkan requirement yaitu berupa
-sistem peminjaman buku perpustakaan yang mencakup dua use case utama: Mencari Buku dan Meminjam Buku dalam bentuk Website menggunakan Pemrograman Bahasa PHP.
+Proyek ini adalah implementasi object-oriented berdasarkan requirement yaitu berupa
+sistem peminjaman buku perpustakaan yang mencakup dua use case utama: Mencari Buku dan Meminjam Buku dalam bentuk Website menggunakan Pemrograman Bahasa Java.
 
 ## Use Case Overview
 ### Mencari Buku (Objective: Peminjam dapat mencari buku berdasarkan judul.)
@@ -32,5 +32,5 @@ Alternative Flows:
 - Form Pencarian
 - Form Peminjaman
 
-
-<img align="center" width="1000" src="Peminjaman Buku Implementasi Terstruktur.png" />
+<img align="center" width="1000" src="Peminjaman Buku Object Oriented_1.png" />
+<img align="center" width="1000" src="Peminjaman Buku Object Oriented_2.png" />
